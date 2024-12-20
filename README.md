@@ -77,7 +77,7 @@ The functionality of the calculator was successfully verified on the MAX 10 DE10
 
 ## How to Run
 1. Clone this repository:
-   
+   ```bash
    git clone <repository_url>
    
 2. Open the project in Quartus Prime.
